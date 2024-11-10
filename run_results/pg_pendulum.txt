@@ -1,0 +1,15 @@
+Episode: 0, reward: 7.171875, max path length: 19
+Episode: 10, reward: 11.390625, max path length: 31
+Episode: 20, reward: 19.03125, max path length: 50
+Episode: 30, reward: 35.03125, max path length: 76
+Episode: 40, reward: 70.5625, max path length: 200
+Episode: 50, reward: 116.59375, max path length: 200
+Episode: 60, reward: 141.109375, max path length: 200
+Episode: 70, reward: 182.6875, max path length: 200
+Episode: 80, reward: 188.546875, max path length: 200
+Episode: 90, reward: 198.0, max path length: 200
+Episode: 100, reward: 198.484375, max path length: 200
+Episode: 110, reward: 197.453125, max path length: 200
+Episode: 120, reward: 198.71875, max path length: 200
+Episode: 130, reward: 199.671875, max path length: 200
+Episode: 140, reward: 199.875, max path length: 200
